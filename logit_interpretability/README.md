@@ -1,1 +1,1 @@
-#Interpretaions for Logit Model
+# Interpretaions for Logit Model
